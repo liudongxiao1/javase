@@ -1,6 +1,7 @@
-
-public class Tea {
-	public static void main(String[] args) {
+public class Tea
+{
+	public static void main(String[] args)
+	{
 		System.out.println("ำเบภ");
 	}
 
